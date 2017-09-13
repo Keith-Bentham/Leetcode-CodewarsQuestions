@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TwoSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="484">
@@ -35,6 +34,19 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#213#231#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="88">
+                <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -60,6 +72,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/TwoSum.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -589,12 +602,12 @@
       <option name="presentableId" value="Default" />
       <updated>1503750909165</updated>
       <workItem from="1503750912543" duration="1864000" />
-      <workItem from="1505295793813" duration="3797000" />
+      <workItem from="1505295793813" duration="3897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5661000" />
+    <option name="totallyTimeSpent" value="5761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="0" width="1936" height="1096" extended-state="0" />
@@ -674,6 +687,17 @@
             <element signature="imports" expanded="true" />
             <element signature="e#213#231#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
