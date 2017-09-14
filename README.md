@@ -8,3 +8,4 @@ Reverse String             https://leetcode.com/problems/reverse-string/discuss/
 Merge Two Binary Trees     https://leetcode.com/problems/merge-two-binary-trees/description/
 Reverse Linked List        https://leetcode.com/problems/reverse-linked-list/description/
 Longest Palindrome         https://leetcode.com/problems/longest-palindrome/description/
+Remove Duplicates from Sorted Array     https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/

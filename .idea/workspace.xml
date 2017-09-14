@@ -88,8 +88,8 @@
       <file leaf-file-name="ReverseLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ReverseLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#215#216#0" expanded="true" />
@@ -99,12 +99,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RemoveDuplicatesFromSortedArr.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="180">
-                <caret line="9" column="67" lean-forward="true" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+                <caret line="10" column="78" lean-forward="true" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -115,8 +125,8 @@
       <file leaf-file-name="LongestPalindromeSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LongestPalindromeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            <state relative-caret-position="350">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -159,6 +169,7 @@
         <option value="$PROJECT_DIR$/src/MergeTwoBinaryTrees.java" />
         <option value="$PROJECT_DIR$/src/ReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/src/LongestPalindromeSum.java" />
+        <option value="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArr.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -170,7 +181,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
@@ -251,22 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestPalindromeSum">
-    <configuration default="false" name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="TwoSum" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Leetcode&amp;CodewarsQuestions" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.RemoveDuplicatesFromSortedArr">
     <configuration default="false" name="GetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="GetSum" />
@@ -315,6 +311,21 @@
     <configuration default="false" name="LongestPalindromeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="LongestPalindromeSum" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Leetcode&amp;CodewarsQuestions" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RemoveDuplicatesFromSortedArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesFromSortedArr" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -715,19 +726,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TwoSum" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GetSum" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StringReversal" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ReverseLinkedList" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LongestPalindromeSum" />
+      <item index="0" class="java.lang.String" itemvalue="Application.GetSum" />
+      <item index="1" class="java.lang.String" itemvalue="Application.StringReversal" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ReverseLinkedList" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LongestPalindromeSum" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArr" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LongestPalindromeSum" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ReverseLinkedList" />
-        <item index="2" class="java.lang.String" itemvalue="Application.StringReversal" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GetSum" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TwoSum" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArr" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LongestPalindromeSum" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ReverseLinkedList" />
+        <item index="3" class="java.lang.String" itemvalue="Application.StringReversal" />
+        <item index="4" class="java.lang.String" itemvalue="Application.GetSum" />
       </list>
     </recent_temporary>
   </component>
@@ -743,12 +754,12 @@
       <updated>1503750909165</updated>
       <workItem from="1503750912543" duration="1864000" />
       <workItem from="1505295793813" duration="12272000" />
-      <workItem from="1505382292358" duration="10700000" />
+      <workItem from="1505382292358" duration="13866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24836000" />
+    <option name="totallyTimeSpent" value="28002000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -760,7 +771,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -773,7 +784,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17864583" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22447917" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -892,26 +903,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringReversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReverseLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GetSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -923,14 +914,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestPalindromeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -939,14 +922,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LongestPalindromeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringReversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
-            <caret line="9" column="67" lean-forward="true" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+            <caret line="10" column="78" lean-forward="true" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
