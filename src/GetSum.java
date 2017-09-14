@@ -8,8 +8,8 @@ public class GetSum {
         return b == 0 ? a : getSum(a ^ b, (a & b) << 1);
     }
     /**
-     * if b is equal to 0 if its true return a recursive call to a to the power of b
-     * otherwise return (a exclusive OR b) and left shift 1
+     * if b is equal to 0 return true, just a as no addition is needed if its true
+     * return a recursive call if its false to a to the power of b otherwise return (a exclusive OR b) and left shift 1
      */
 
     public static void main(String[] args) {

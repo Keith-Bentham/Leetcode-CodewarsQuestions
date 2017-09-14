@@ -1,6 +1,8 @@
 # Leetcode-CodewarsQuestions
 Leetcode&amp;CodewarsQuestions
 
-7. Reverse Integer            https://leetcode.com/problems/reverse-integer/description/   
-1. Two Sum                    https://leetcode.com/problems/two-sum/description/
-Get Sum                       https://leetcode.com/problems/sum-of-two-integers/description/
+Reverse Integer            https://leetcode.com/problems/reverse-integer/description/   
+Two Sum                    https://leetcode.com/problems/two-sum/description/
+Get Sum                    https://leetcode.com/problems/sum-of-two-integers/description/
+Reverse String             https://leetcode.com/problems/reverse-string/discuss/
+Merge Two Binary Trees     https://leetcode.com/problems/merge-two-binary-trees/description/
