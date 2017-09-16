@@ -12,3 +12,4 @@ Remove Duplicates from Sorted Array     https://leetcode.com/problems/remove-dup
 Valid Parentheses          https://leetcode.com/problems/valid-parentheses/description/
 Minimum Absolute Difference in BST      https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
 DeleteNodeInLinkedList      https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+Contains Duplicate          https://leetcode.com/problems/contains-duplicate/description/
