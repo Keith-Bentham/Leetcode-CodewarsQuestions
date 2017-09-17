@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ValidAnagram.java" afterPath="$PROJECT_DIR$/src/ValidAnagram.java" />
-    </list>
+    <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,8 +66,8 @@
       <file leaf-file-name="ValidAnagram.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ValidAnagram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="81">
+              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -712,12 +710,12 @@
       <workItem from="1503750912543" duration="1864000" />
       <workItem from="1505295793813" duration="12272000" />
       <workItem from="1505382292358" duration="17237000" />
-      <workItem from="1505498681548" duration="4506000" />
+      <workItem from="1505498681548" duration="4561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35879000" />
+    <option name="totallyTimeSpent" value="35934000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1068,8 +1066,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ValidAnagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="81">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="25" />
           <folding />
         </state>
       </provider>
