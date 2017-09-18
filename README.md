@@ -17,3 +17,4 @@ Generate Parentheses        https://leetcode.com/problems/generate-parentheses/d
 Valid Anagram               https://leetcode.com/problems/valid-anagram/description/
 Roman to Integer            https://leetcode.com/problems/roman-to-integer/description/
 Minimum Index Sum of Two Lists  https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/
+Relative Ranks              https://leetcode.com/problems/relative-ranks/description/
