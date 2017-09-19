@@ -20,3 +20,4 @@ Minimum Index Sum of Two Lists  https://leetcode.com/problems/minimum-index-sum-
 Relative Ranks              https://leetcode.com/problems/relative-ranks/description/
 Maximum Product of Three Numbers    https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 Intersection of Two Arrays  https://leetcode.com/problems/intersection-of-two-arrays/description/
+Excel Sheet Column Number   https://leetcode.com/problems/excel-sheet-column-number/description/
