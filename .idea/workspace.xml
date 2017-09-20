@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,8 +38,8 @@
       <file leaf-file-name="RotateArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RotateArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="690">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -73,7 +70,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="408">
-                <caret line="24" column="83" lean-forward="true" selection-start-line="24" selection-start-column="83" selection-end-line="24" selection-end-column="83" />
+                <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="83" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -749,12 +746,12 @@
       <workItem from="1505295793813" duration="12272000" />
       <workItem from="1505382292358" duration="17237000" />
       <workItem from="1505498681548" duration="26788000" />
-      <workItem from="1505936767096" duration="838000" />
+      <workItem from="1505936767096" duration="1393000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58999000" />
+    <option name="totallyTimeSpent" value="59554000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1223,8 +1220,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="690">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1233,7 +1230,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="408">
-            <caret line="24" column="83" lean-forward="true" selection-start-line="24" selection-start-column="83" selection-end-line="24" selection-end-column="83" />
+            <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="83" />
             <folding />
           </first_editor>
           <second_editor />
