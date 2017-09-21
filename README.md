@@ -25,3 +25,4 @@ Ransom Note                 https://leetcode.com/problems/ransom-note/descriptio
 Rotate Array                https://leetcode.com/problems/rotate-array/description/
 Fizz Buzz                   https://leetcode.com/problems/fizz-buzz/description/
 Single Number               https://leetcode.com/problems/single-number/description/
+Maximum Depth of Binary Tree    https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
