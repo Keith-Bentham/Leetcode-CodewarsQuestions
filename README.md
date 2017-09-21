@@ -24,3 +24,4 @@ Excel Sheet Column Number   https://leetcode.com/problems/excel-sheet-column-num
 Ransom Note                 https://leetcode.com/problems/ransom-note/description/
 Rotate Array                https://leetcode.com/problems/rotate-array/description/
 Fizz Buzz                   https://leetcode.com/problems/fizz-buzz/description/
+Single Number               https://leetcode.com/problems/single-number/description/
