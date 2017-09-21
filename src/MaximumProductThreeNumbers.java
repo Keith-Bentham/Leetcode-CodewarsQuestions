@@ -2,34 +2,63 @@
  * Created by Keith Bentham
  */
 public class MaximumProductThreeNumbers {
-    public int maximumProduct(int[] nums) {
-        int max1 = Integer.MIN_VALUE, max2 = Integer.MIN_VALUE, max3 = Integer.MIN_VALUE, min1 = Integer.MAX_VALUE, min2 = Integer.MAX_VALUE;
-        for (int number : nums) {
-            if (number > max1) {
-                max3 = max2;
-                max2 = max1;
-                max1 = number;
-            } else if (number > max2) {
-                max3 = max2;
-                max2 = number;
-            } else if (number > max3) {
-                max3 = number;
-            }
+    public int highestProductOf3(int[] arrayOfInts) {
 
-            if (number < min1) {
-                min2 = min1;
-                min1 = number;
-            } else if (number < min2) {
-                min2 = number;
-            }
+        if (arrayOfInts.length < 3) {
+            throw new IllegalArgumentException("Less than 3 items!");
         }
-        return Math.max(max1 * max2 * max3, max1 * min1 * min2);
+
+/**    we're going to start at the 3rd item (at index 2)
+ *      so pre-populate highests and lowests based on the first 2 items.
+ *      we could also start these as null and check below if they're set
+ *      but this is arguably cleaner */
+        int highest = Math.max(arrayOfInts[0], arrayOfInts[1]);
+        int lowest = Math.min(arrayOfInts[0], arrayOfInts[1]);
+
+        int highestProductOf2 = arrayOfInts[0] * arrayOfInts[1];
+        int lowestProductOf2 = arrayOfInts[0] * arrayOfInts[1];
+        /**    except this one--we pre-populate it for the first *3* items.
+         this means in our first pass it'll check against itself, which is fine. */
+        int highestProductOf3 = arrayOfInts[0] * arrayOfInts[1] * arrayOfInts[2];
+
+        /** walk through items, starting at index 2 */
+        for (int i = 2; i < arrayOfInts.length; i++) {
+            int current = arrayOfInts[i];
+
+            /** do we have a new highest product of 3?
+             * it's either the current highest,
+             * or the current times the highest product of two
+             * or the current times the lowest product of two */
+            highestProductOf3 = Math.max(Math.max(
+                    highestProductOf3,
+                    current * highestProductOf2),
+                    current * lowestProductOf2);
+
+            /** do we have a new highest product of two? */
+            highestProductOf2 = Math.max(Math.max(
+                    highestProductOf2,
+                    current * highest),
+                    current * lowest);
+
+            /** do we have a new lowest product of two? */
+            lowestProductOf2 = Math.min(Math.min(
+                    lowestProductOf2,
+                    current * highest),
+                    current * lowest);
+
+            /** do we have a new highest? */
+            highest = Math.max(highest, current);
+
+            /**do we have a new lowest? */
+            lowest = Math.min(lowest, current);
+        }
+        return highestProductOf3;
     }
 
     public static void main(String[] args) {
-        int[] arr = {5, 6, 2};
+        int[] arr = {-10, -10, 1, 3, 2, 4};
         MaximumProductThreeNumbers mptn = new MaximumProductThreeNumbers();
-        System.out.println("Max sum of array is: " + mptn.maximumProduct(arr));
+        System.out.println("Max sum of array is: " + mptn.highestProductOf3(arr));
     }
 
 }
