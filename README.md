@@ -23,3 +23,4 @@ Intersection of Two Arrays  https://leetcode.com/problems/intersection-of-two-ar
 Excel Sheet Column Number   https://leetcode.com/problems/excel-sheet-column-number/description/
 Ransom Note                 https://leetcode.com/problems/ransom-note/description/
 Rotate Array                https://leetcode.com/problems/rotate-array/description/
+Fizz Buzz                   https://leetcode.com/problems/fizz-buzz/description/
