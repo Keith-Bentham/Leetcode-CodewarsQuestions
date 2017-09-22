@@ -26,3 +26,4 @@ Rotate Array                https://leetcode.com/problems/rotate-array/descripti
 Fizz Buzz                   https://leetcode.com/problems/fizz-buzz/description/
 Single Number               https://leetcode.com/problems/single-number/description/
 Maximum Depth of Binary Tree    https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+Move Zeroes                 https://leetcode.com/problems/move-zeroes/description/
