@@ -69,10 +69,20 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="493">
-                <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+                <caret line="29" column="103" lean-forward="true" selection-start-line="29" selection-start-column="103" selection-end-line="29" selection-end-column="103" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductArrayExceptSelf.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProductArrayExceptSelf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -128,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/MaximumDepthBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/SingleNumber.java" />
         <option value="$PROJECT_DIR$/src/MoveZeroes.java" />
+        <option value="$PROJECT_DIR$/src/ProductArrayExceptSelf.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -733,12 +744,12 @@
       <workItem from="1505382292358" duration="17237000" />
       <workItem from="1505498681548" duration="26788000" />
       <workItem from="1505936767096" duration="2212000" />
-      <workItem from="1506011217855" duration="11321000" />
+      <workItem from="1506011217855" duration="11619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71694000" />
+    <option name="totallyTimeSpent" value="71992000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -805,14 +816,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ExcelSheetColumnNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RansomNote.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1248,11 +1251,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProductArrayExceptSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="493">
-            <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <caret line="29" column="103" lean-forward="true" selection-start-line="29" selection-start-column="103" selection-end-line="29" selection-end-column="103" />
             <folding />
           </first_editor>
           <second_editor />
