@@ -30,4 +30,4 @@ Move Zeroes                 https://leetcode.com/problems/move-zeroes/descriptio
 Product of Array Except Self    https://leetcode.com/problems/product-of-array-except-self/description/
 Top K Frequent Elements     https://leetcode.com/problems/top-k-frequent-elements/description/
 Best Time to Buy and Sell Stock II  https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
-Majority Element            https://leetcode.com/problems/majority-element/description/
+Majority Element            https://leetcode.com/problems/majority-element/description/ 
