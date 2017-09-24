@@ -36,3 +36,4 @@ Binary Tree Inorder Traversal   https://leetcode.com/problems/binary-tree-inorde
 Permutations                https://leetcode.com/problems/permutations/description/
 First Unique Character in a String  https://leetcode.com/problems/first-unique-character-in-a-string/description/
 Odd Even Linked List        https://leetcode.com/problems/odd-even-linked-list/description/
+Convert Sorted Array to Binary Search Tree  https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
