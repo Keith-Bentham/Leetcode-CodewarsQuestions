@@ -1,12 +1,12 @@
 /**
  * Created by Keith Bentham
  */
-class TreeNode {
+class Node {
     int val;
-    TreeNode left;
-    TreeNode right;
+    Node left;
+    Node right;
 
-    TreeNode(int x) {
+    Node(int x) {
         val = x;
     }
 }
@@ -15,7 +15,7 @@ public class KthSmallestElementBST {
     int result = -1;
     int val = 0;
 
-    public int kthSmallest(TreeNode root, int k) {
+    public int kthSmallest(Node root, int k) {
         if (root == null)
             return result;
 
