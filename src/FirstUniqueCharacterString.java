@@ -3,12 +3,18 @@
  */
 public class FirstUniqueCharacterString {
     public int firstUniqChar(String s) {
-        int freq [] = new int[26];
-        for(int i = 0; i < s.length(); i ++)
-            freq [s.charAt(i) - 'a'] ++;
-        for(int i = 0; i < s.length(); i ++)
-            if(freq [s.charAt(i) - 'a'] == 1)
-                return i;
-        return -1;
+        int res = s.length();
+        for (char i = 'a'; i <= 'z'; i++) {
+            int idx = s.indexOf(i);
+            if (idx != -1 && idx == s.lastIndexOf(i)) {
+                res = Math.min(res, idx);
+            }
+        }
+        return res == s.length() ? -1 : res;
+    }
+
+    public static void main(String [] args){
+        FirstUniqueCharacterString fucs = new FirstUniqueCharacterString();
+        System.out.println(fucs.firstUniqChar("leetcode"));
     }
 }
