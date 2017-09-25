@@ -37,3 +37,4 @@ Permutations                https://leetcode.com/problems/permutations/descripti
 First Unique Character in a String  https://leetcode.com/problems/first-unique-character-in-a-string/description/
 Odd Even Linked List        https://leetcode.com/problems/odd-even-linked-list/description/
 Convert Sorted Array to Binary Search Tree  https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+Shuffle an Array            https://leetcode.com/problems/shuffle-an-array/description/
