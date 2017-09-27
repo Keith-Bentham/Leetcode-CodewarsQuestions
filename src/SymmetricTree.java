@@ -13,6 +13,9 @@ class TreeNode {
 
 public class SymmetricTree {
     public boolean isSymmetric(TreeNode root) {
+        if (root == null){
+            return true;
+        }
         return helper(root, root);
     }
 
