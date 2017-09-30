@@ -21,6 +21,6 @@ public class ConstructRectangle {
 
     public static void main(String[] args) {
         ConstructRectangle cr = new ConstructRectangle();
-        System.out.println("In op?: " + Arrays.toString(cr.constructRectangle(4)));
+        System.out.println("Construct Rectangle by: " + Arrays.toString(cr.constructRectangle(4)));
     }
 }
