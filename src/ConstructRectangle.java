@@ -18,6 +18,7 @@ public class ConstructRectangle {
         result[1] = a;
         return result;
     }
+
     public static void main(String[] args) {
         ConstructRectangle cr = new ConstructRectangle();
         System.out.println("In op?: " + Arrays.toString(cr.constructRectangle(4)));
