@@ -12,7 +12,7 @@ public class ConstructRectangle {
         int a = (int) Math.sqrt(area);
         while (area % a != 0) {
             a--;
-        } 
+        }
         int b = area / a;
         result[0] = b;
         result[1] = a;
