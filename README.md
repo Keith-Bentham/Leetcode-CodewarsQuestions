@@ -45,3 +45,4 @@ Subsets                     https://leetcode.com/problems/subsets/description/
 Keyboard Row                https://leetcode.com/problems/keyboard-row/description/
 Reverse Words in a String III   https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
 Construct the Rectangle     https://leetcode.com/problems/construct-the-rectangle/description/
+Plus One                    https://leetcode.com/problems/plus-one/description/
