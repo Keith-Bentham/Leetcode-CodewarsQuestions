@@ -52,3 +52,4 @@ Gas Station                 https://leetcode.com/problems/gas-station/descriptio
 Encode and Decode TinyURL   https://leetcode.com/problems/encode-and-decode-tinyurl/description/
 Find All Duplicates in an Array     https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 Replace Words               https://leetcode.com/problems/replace-words/description/
+Intersection of Two Linked Lists    https://leetcode.com/problems/intersection-of-two-linked-lists/description/

@@ -2,12 +2,12 @@
  * Created by Keith Bentham
  */
 public class OddEvenLinkedList {
-    public ListNode oddEvenList(ListNode head) {
+    public ListNode2 oddEvenList(ListNode2 head) {
         if (head == null || head.next == null) {
             return head;
         }
-        ListNode evenH = head.next, oddH = head;
-        ListNode evenFirst = head.next;
+        ListNode2 evenH = head.next, oddH = head;
+        ListNode2 evenFirst = head.next;
         // because evenH faster than odd Head, so we don't need to see oddH !=null
         while (evenH != null && evenH.next != null) {
             oddH.next = evenH.next;
