@@ -25,7 +25,7 @@ public class AnagramDifference {
         return result;
     }
 
-    public static void main(String[] args) throws IOException{
+    public static void main(String[] args) throws IOException {
         Scanner in = new Scanner(System.in);
         final String fileName = System.getenv("OUTPUT_PATH");
         BufferedWriter bw = new BufferedWriter(new FileWriter(fileName));
@@ -35,7 +35,7 @@ public class AnagramDifference {
         _nums_size = Integer.parseInt(in.nextLine().trim());
         int[] _nums = new int[_nums_size];
         int _nums_item;
-        for(int _nums_i = 0; _nums_i < _nums_size; _nums_i++) {
+        for (int _nums_i = 0; _nums_i < _nums_size; _nums_i++) {
             _nums_item = Integer.parseInt(in.nextLine().trim());
             _nums[_nums_i] = _nums_item;
         }
@@ -45,13 +45,13 @@ public class AnagramDifference {
         _maxes_size = Integer.parseInt(in.nextLine().trim());
         int[] _maxes = new int[_maxes_size];
         int _maxes_item;
-        for(int _maxes_i = 0; _maxes_i < _maxes_size; _maxes_i++) {
+        for (int _maxes_i = 0; _maxes_i < _maxes_size; _maxes_i++) {
             _maxes_item = Integer.parseInt(in.nextLine().trim());
             _maxes[_maxes_i] = _maxes_item;
         }
 
         res = counts(_nums, _maxes);
-        for(int res_i=0; res_i < res.length; res_i++) {
+        for (int res_i = 0; res_i < res.length; res_i++) {
             bw.write(String.valueOf(res[res_i]));
             bw.newLine();
         }

@@ -13,7 +13,7 @@ public class FirstUniqueCharacterString {
         return res == s.length() ? -1 : res;
     }
 
-    public static void main(String [] args){
+    public static void main(String[] args) {
         FirstUniqueCharacterString fucs = new FirstUniqueCharacterString();
         System.out.println(fucs.firstUniqChar("leetcode"));
     }
