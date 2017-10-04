@@ -14,6 +14,7 @@ public class RotateArray {
         return nums;
     }
 
+    //swap array in place
     public void reverse(int[] nums, int start, int end) {
         while (start < end) {
             int temp = nums[start];
@@ -48,7 +49,7 @@ public class RotateArray {
         int[] arr2 = {1, 2, 3, 4, 5, 6, 7, 8};
         int[] arr3 = {1, 2, 3, 4, 5, 6, 7, 8};
         RotateArray ra = new RotateArray();
-        System.out.println(Arrays.toString(ra.rotate(arr, 0)));
+        System.out.println(Arrays.toString(ra.rotate(arr, 4)));
         System.out.println(Arrays.toString(ra.rotateArr(arr2)));
         System.out.println(Arrays.toString(ra.rotateArrBuilder(arr3)));
     }
