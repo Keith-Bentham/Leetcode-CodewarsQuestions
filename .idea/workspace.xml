@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="" />
+    <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RotateArray.java" afterPath="$PROJECT_DIR$/src/RotateArray.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,8 +56,8 @@
       <file leaf-file-name="RotateArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RotateArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -768,12 +770,12 @@
       <workItem from="1506334860022" duration="28092000" />
       <workItem from="1506782009785" duration="2444000" />
       <workItem from="1506878640931" duration="18209000" />
-      <workItem from="1507036545585" duration="5466000" />
+      <workItem from="1507036545585" duration="6676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137702000" />
+    <option name="totallyTimeSpent" value="138912000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1200,8 +1202,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
           <folding />
         </state>
       </provider>
