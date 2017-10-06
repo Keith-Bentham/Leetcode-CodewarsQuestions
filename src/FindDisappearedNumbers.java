@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.List;
-
 /**
  * Created by Keith Bentham
  * Given an array of integers where 1 ≤ a[i] ≤ n (n = size of array),
