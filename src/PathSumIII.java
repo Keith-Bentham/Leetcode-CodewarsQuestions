@@ -1,5 +1,4 @@
 import java.util.HashMap;
-
 /**
  * Created by Keith Bentham
  * You are given a binary tree in which each node contains an integer value.
