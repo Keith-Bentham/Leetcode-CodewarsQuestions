@@ -1,4 +1,5 @@
 import java.util.HashMap;
+
 /**
  * Created by Keith Bentham
  * You are given a binary tree in which each node contains an integer value.
@@ -13,6 +14,7 @@ public class PathSumIII {
         preSum.put(0, 1);
         return helper(root, 0, sum, preSum);
     }
+
     public int helper(TreeNode root, int currSum, int target, HashMap<Integer, Integer> preSum) {
         if (root == null) {
             return 0;
