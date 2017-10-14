@@ -11,7 +11,6 @@ public class EncodeDecodeTinyURL {
         map.put(Integer.toString(map.size()), longUrl);
         return Integer.toString(map.size() - 1);
     }
-
     // Decodes a shortened URL to its original URL.
     public String decode(String shortUrl) {
         return map.get(String.valueOf(shortUrl));
