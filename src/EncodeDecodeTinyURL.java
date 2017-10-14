@@ -5,7 +5,6 @@ import java.util.HashMap;
  */
 public class EncodeDecodeTinyURL {
     HashMap<String, String> map = new HashMap<String, String>();
-
     // Encodes a URL to a shortened URL.
     public String encode(String longUrl) {
         map.put(Integer.toString(map.size()), longUrl);
