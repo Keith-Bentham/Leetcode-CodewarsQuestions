@@ -10,7 +10,7 @@ public class ExcelSheetColumnNumber {
         }
         return result;
     }
-    
+
     public static void main(String[] args) {
         ExcelSheetColumnNumber escn = new ExcelSheetColumnNumber();
         System.out.println("The number version of excel value of \"AB\" is: " +escn.titleToNumber("AB"));
