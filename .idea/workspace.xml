@@ -116,8 +116,8 @@
       <file leaf-file-name="GetSum.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GetSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="612">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -839,12 +839,12 @@
       <workItem from="1507826081039" duration="2195000" />
       <workItem from="1508013703466" duration="705000" />
       <workItem from="1508089373894" duration="688000" />
-      <workItem from="1508156556671" duration="116000" />
+      <workItem from="1508156556671" duration="718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163352000" />
+    <option name="totallyTimeSpent" value="163954000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1274,8 +1274,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GetSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="612">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
