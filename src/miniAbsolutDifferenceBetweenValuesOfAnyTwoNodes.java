@@ -1,19 +1,16 @@
-import javax.swing.tree.TreeNode;
-
 /**
  * Created by Keith Bentham
  */
-
-
 public class miniAbsolutDifferenceBetweenValuesOfAnyTwoNodes {
     int min = Integer.MAX_VALUE;
     Integer prev = null;
-
     public class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;
-        TreeNode(int x) { val = x; }
+        TreeNode(int x) {
+            val = x;
+        }
     }
 
     public int getMinimumDifference(TreeNode root) {

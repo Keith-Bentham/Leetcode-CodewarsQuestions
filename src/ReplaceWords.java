@@ -1,5 +1,4 @@
 import java.util.*;
-
 /**
  * Created by Keith Bentham
  * In English, we have a concept called root,
@@ -19,10 +18,10 @@ import java.util.*;
 public class ReplaceWords {
     public String replaceWords(List<String> dict, String sentence) {
         if (dict == null || dict.size() == 0) return sentence;
-
         Set<String> set = new HashSet<>();
-        for (String s : dict) set.add(s);
-
+        for (String s : dict){
+            set.add(s);
+        }
         StringBuilder sb = new StringBuilder();
         String[] words = sentence.split("\\s+");
 
