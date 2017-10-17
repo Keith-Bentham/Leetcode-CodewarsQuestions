@@ -1,6 +1,3 @@
-import java.util.LinkedList;
-import java.util.List;
-
 /**
  * Created by Keith Bentham
  */
@@ -9,6 +6,7 @@ public class ReverseLinkedList {
     public class ListNode {
         int val;
         ListNode next;
+
         ListNode(int x) {
             val = x;
         }
