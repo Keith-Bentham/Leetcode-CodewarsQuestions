@@ -7,7 +7,6 @@ import java.util.List;
  * Find all the elements of [1, n] inclusive that do not appear in
  * this array.
  */
-
 public class FindDisappearedNumbers {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         List<Integer> result = new ArrayList<>();
@@ -20,7 +19,6 @@ public class FindDisappearedNumbers {
         }
         return result;
     }
-
     public static void main(String[] args) {
         int arr[] = {1, 2, 2, 4, 5, 6, 8, 9};
         FindDisappearedNumbers fdn = new FindDisappearedNumbers();
