@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TwoSum.java" afterPath="$PROJECT_DIR$/src/TwoSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ValidParentheses.java" afterPath="$PROJECT_DIR$/src/ValidParentheses.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ValidSudoku.java" afterPath="$PROJECT_DIR$/src/ValidSudoku.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/WordSearch.java" afterPath="$PROJECT_DIR$/src/WordSearch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ValidAnagram.java" afterPath="$PROJECT_DIR$/src/ValidAnagram.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,8 +73,8 @@
       <file leaf-file-name="ValidAnagram.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ValidAnagram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="459">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -124,7 +120,6 @@
         <option value="$PROJECT_DIR$/src/GasStation.java" />
         <option value="$PROJECT_DIR$/src/IntersectionTwoLinkedLists.java" />
         <option value="$PROJECT_DIR$/src/StringReversal.java" />
-        <option value="$PROJECT_DIR$/src/ValidAnagram.java" />
         <option value="$PROJECT_DIR$/src/FirstUniqueCharacterString.java" />
         <option value="$PROJECT_DIR$/src/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/ConstructRectangle.java" />
@@ -161,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/WordSearch.java" />
         <option value="$PROJECT_DIR$/src/ValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/ValidAnagram.java" />
       </list>
     </option>
   </component>
@@ -784,12 +780,12 @@
       <workItem from="1508089373894" duration="688000" />
       <workItem from="1508156556671" duration="1418000" />
       <workItem from="1508262444193" duration="1757000" />
-      <workItem from="1508347151088" duration="341000" />
+      <workItem from="1508347151088" duration="727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166752000" />
+    <option name="totallyTimeSpent" value="167138000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -801,7 +797,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1244,8 +1240,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ValidAnagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -24,3 +24,4 @@ public class ValidAnagram {
         System.out.println("is \"rat\" and \"car\" valid anagrams of each other: " + va.isAnagram("rat", "car"));
     }
 }
+
