@@ -1,10 +1,8 @@
 import java.util.LinkedList;
 import java.util.Queue;
-
 /**
  * Created by Keith Bentham
  */
-
 public class MaximumDepthBinaryTree {
     public class TreeNode {
         int val;
@@ -15,7 +13,6 @@ public class MaximumDepthBinaryTree {
             val = x;
         }
     }
-
     public int maxDepth2(TreeNode root) {
         if (root == null) {
             return 0;
@@ -23,7 +20,6 @@ public class MaximumDepthBinaryTree {
         return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
     }
     //Recursive answer is somewhat easy so be prepared to know iterative version
-
     public int maxDepth(TreeNode root) {
         if (root == null) {
             return 0;
@@ -46,6 +42,4 @@ public class MaximumDepthBinaryTree {
         }
         return count;
     }
-
-
 }
