@@ -19,6 +19,7 @@ public class MaximumDepthBinaryTree {
         }
         return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
     }
+    
     //Recursive answer is somewhat easy so be prepared to know iterative version
     public int maxDepth(TreeNode root) {
         if (root == null) {
