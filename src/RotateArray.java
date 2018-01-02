@@ -13,7 +13,6 @@ public class RotateArray {
         reverse(nums, 0, nums.length - 1);
         return nums;
     }
-
     //swap array in place
     public void reverse(int[] nums, int start, int end) {
         while (start < end) {
@@ -33,7 +32,6 @@ public class RotateArray {
         }
         return array;
     }
-
 
     public int[] rotateArrBuilder(int[] x) {
         {
