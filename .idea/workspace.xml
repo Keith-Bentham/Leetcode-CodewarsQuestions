@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Count number of 1s in array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxConsOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxConsOnes.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -351,7 +352,7 @@
       <workItem from="1515585153987" duration="617000" />
       <workItem from="1515705627415" duration="602000" />
       <workItem from="1516223207958" duration="1301000" />
-      <workItem from="1608678965089" duration="8809000" />
+      <workItem from="1608678965089" duration="10407000" />
     </task>
     <task id="LOCAL-00001" summary="Count number of 1s in array">
       <created>1608758566615</created>

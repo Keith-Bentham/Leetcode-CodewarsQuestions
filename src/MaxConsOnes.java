@@ -6,17 +6,18 @@ public class MaxConsOnes {
     }
 
     private static int findMaxConsecutiveOnes(int[] nums) {
-        int find1 = 0;
+        int foundOne = 0;
         int max = 0;
 
-        for (int num : nums) {
-            if (num == 1) {
-                find1++;
-            } else {
-                max = Math.max(find1, max);
-                find1 = 0;
+        for (int i=0; i<nums.length; i++){
+            if (nums[i]==1){
+                foundOne++;
+            }else{
+                max = Math.max(foundOne, max);
+                foundOne=0;
             }
         }
-        return Math.max(find1, max);
+        return Math.max(foundOne, max);
     }
+
 }
