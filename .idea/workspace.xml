@@ -4,6 +4,7 @@
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Count number of 1s in array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MaxConsOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxConsOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Permutations.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxConsOnes">
+  <component name="RunManager" selected="Application.EvenNumberOfDigits">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -87,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDisappearedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindDisappearedNumbers" />
+    <configuration name="EvenNumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenNumberOfDigits" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -286,19 +287,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.FindDisappearedNumbers" />
       <item itemvalue="Application.BestTimeBuySellStock" />
       <item itemvalue="Application.testing" />
       <item itemvalue="Application.RotateArray" />
       <item itemvalue="Application.MaxConsOnes" />
+      <item itemvalue="Application.EvenNumberOfDigits" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenNumberOfDigits" />
         <item itemvalue="Application.MaxConsOnes" />
         <item itemvalue="Application.RotateArray" />
         <item itemvalue="Application.testing" />
         <item itemvalue="Application.BestTimeBuySellStock" />
-        <item itemvalue="Application.FindDisappearedNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +353,7 @@
       <workItem from="1515585153987" duration="617000" />
       <workItem from="1515705627415" duration="602000" />
       <workItem from="1516223207958" duration="1301000" />
-      <workItem from="1608678965089" duration="10407000" />
+      <workItem from="1608678965089" duration="15368000" />
     </task>
     <task id="LOCAL-00001" summary="Count number of 1s in array">
       <created>1608758566615</created>

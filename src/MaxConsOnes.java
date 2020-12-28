@@ -12,6 +12,7 @@ public class MaxConsOnes {
         for (int i=0; i<nums.length; i++){
             if (nums[i]==1){
                 foundOne++;
+                //could put max=Math.max(found1, max) here too, but would make the program run longer when all we really want to do is check against the last row of 1s in the array
             }else{
                 max = Math.max(foundOne, max);
                 foundOne=0;
@@ -19,5 +20,4 @@ public class MaxConsOnes {
         }
         return Math.max(foundOne, max);
     }
-
 }
