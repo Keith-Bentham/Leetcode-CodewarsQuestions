@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Count number of 1s in array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxConsOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxConsOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Permutations.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -353,7 +351,7 @@
       <workItem from="1515585153987" duration="617000" />
       <workItem from="1515705627415" duration="602000" />
       <workItem from="1516223207958" duration="1301000" />
-      <workItem from="1608678965089" duration="15368000" />
+      <workItem from="1608678965089" duration="17025000" />
     </task>
     <task id="LOCAL-00001" summary="Count number of 1s in array">
       <created>1608758566615</created>
@@ -362,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608758566615</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Count number of 1s in array">
+      <created>1609189941309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609189941309</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
