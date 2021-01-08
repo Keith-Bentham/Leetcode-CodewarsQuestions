@@ -71,9 +71,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SquaresOfSortedArray">
+  <component name="RunManager" selected="Application.DuplicateZeros">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicateZeros" />
+      <module name="Leetcode&amp;CodewarsQuestions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,14 +119,6 @@
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testing" />
-      <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -285,19 +285,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.testing" />
       <item itemvalue="Application.RotateArray" />
       <item itemvalue="Application.MaxConsOnes" />
       <item itemvalue="Application.EvenNumberOfDigits" />
       <item itemvalue="Application.SquaresOfSortedArray" />
+      <item itemvalue="Application.DuplicateZeros" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicateZeros" />
         <item itemvalue="Application.SquaresOfSortedArray" />
         <item itemvalue="Application.EvenNumberOfDigits" />
         <item itemvalue="Application.MaxConsOnes" />
         <item itemvalue="Application.RotateArray" />
-        <item itemvalue="Application.testing" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +352,7 @@
       <workItem from="1515705627415" duration="602000" />
       <workItem from="1516223207958" duration="1301000" />
       <workItem from="1608678965089" duration="18673000" />
-      <workItem from="1609876044697" duration="8192000" />
+      <workItem from="1609876044697" duration="16124000" />
     </task>
     <task id="LOCAL-00001" summary="Count number of 1s in array">
       <created>1608758566615</created>
@@ -403,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610040410440</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Count number of 1s in array">
+      <created>1610099248602</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610099248602</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
