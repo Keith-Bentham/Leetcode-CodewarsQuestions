@@ -76,7 +76,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DuplicateZeros">
+  <component name="RunManager" selected="Application.MergeSortedArrays">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -107,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotateArray" />
+    <configuration name="MergeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSortedArrays" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -290,19 +290,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.RotateArray" />
       <item itemvalue="Application.MaxConsOnes" />
       <item itemvalue="Application.EvenNumberOfDigits" />
       <item itemvalue="Application.SquaresOfSortedArray" />
       <item itemvalue="Application.DuplicateZeros" />
+      <item itemvalue="Application.MergeSortedArrays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSortedArrays" />
         <item itemvalue="Application.DuplicateZeros" />
         <item itemvalue="Application.SquaresOfSortedArray" />
         <item itemvalue="Application.EvenNumberOfDigits" />
         <item itemvalue="Application.MaxConsOnes" />
-        <item itemvalue="Application.RotateArray" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +358,7 @@
       <workItem from="1516223207958" duration="1301000" />
       <workItem from="1608678965089" duration="18673000" />
       <workItem from="1609876044697" duration="21735000" />
-      <workItem from="1610389250830" duration="1982000" />
+      <workItem from="1610389250830" duration="4251000" />
     </task>
     <task id="LOCAL-00001" summary="Count number of 1s in array">
       <created>1608758566615</created>
@@ -437,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610223657807</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Count number of 1s in array">
+      <created>1610396235438</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610396235438</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
