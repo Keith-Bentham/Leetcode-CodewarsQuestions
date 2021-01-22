@@ -359,7 +359,7 @@
       <workItem from="1608678965089" duration="18673000" />
       <workItem from="1609876044697" duration="21735000" />
       <workItem from="1610389250830" duration="6500000" />
-      <workItem from="1611090771203" duration="6123000" />
+      <workItem from="1611090771203" duration="7139000" />
     </task>
     <task id="LOCAL-00001" summary="Count number of 1s in array">
       <created>1608758566615</created>
@@ -515,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611261648698</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Count number of 1s in array">
+      <created>1611262750996</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1611262750996</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
