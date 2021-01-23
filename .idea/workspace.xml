@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Count number of 1s in array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MoveZeroes.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,23 +77,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicatesSortedArray">
+  <component name="RunManager" selected="Application.MoveZeroes">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuplicateZeros" />
+    <configuration name="MergeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSortedArrays" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSortedArrays" />
+    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoveZeroes" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -290,19 +291,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.DuplicateZeros" />
       <item itemvalue="Application.MergeSortedArrays" />
       <item itemvalue="Application.RemoveElement" />
       <item itemvalue="Application.OneEditDistance" />
       <item itemvalue="Application.RemoveDuplicatesSortedArray" />
+      <item itemvalue="Application.MoveZeroes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoveZeroes" />
         <item itemvalue="Application.RemoveDuplicatesSortedArray" />
         <item itemvalue="Application.OneEditDistance" />
         <item itemvalue="Application.RemoveElement" />
         <item itemvalue="Application.MergeSortedArrays" />
-        <item itemvalue="Application.DuplicateZeros" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +360,7 @@
       <workItem from="1608678965089" duration="18673000" />
       <workItem from="1609876044697" duration="21735000" />
       <workItem from="1610389250830" duration="6500000" />
-      <workItem from="1611090771203" duration="10958000" />
+      <workItem from="1611090771203" duration="12534000" />
     </task>
     <task id="LOCAL-00001" summary="Count number of 1s in array">
       <created>1608758566615</created>
@@ -529,7 +530,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611337717319</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Count number of 1s in array">
+      <created>1611404879466</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1611404879466</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
