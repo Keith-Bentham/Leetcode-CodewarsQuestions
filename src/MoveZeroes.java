@@ -1,7 +1,5 @@
 import java.util.Arrays;
-
 public class MoveZeroes {
-
     public static void main(String[] args) {
         int[] nums1 = {1, 0, 0, 2, 3, 4};
         System.out.println("Array before: " + Arrays.toString(nums1));

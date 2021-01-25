@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Count number of 1s in array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MoveZeroes.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -359,7 +360,7 @@
       <workItem from="1608678965089" duration="18673000" />
       <workItem from="1609876044697" duration="21735000" />
       <workItem from="1610389250830" duration="6500000" />
-      <workItem from="1611090771203" duration="13864000" />
+      <workItem from="1611090771203" duration="14554000" />
     </task>
     <task id="LOCAL-00001" summary="Count number of 1s in array">
       <created>1608758566615</created>
@@ -543,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611432633095</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Count number of 1s in array">
+      <created>1611517166747</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1611517166747</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
