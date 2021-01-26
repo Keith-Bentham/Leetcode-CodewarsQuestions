@@ -6,6 +6,7 @@ public class MoveZeroes {
         System.out.println("After moving zeros to end: " + Arrays.toString(moveZeroes(nums1)));
     }
 
+
     public static int[] moveZeroes(int[] nums) {
         int leftMostZeroIndex = 0; // holds index of leftmost zero
         for (int i = 0; i < nums.length; i++) {
