@@ -76,9 +76,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortArrayParity">
+  <component name="RunManager" selected="Application.HeightChecker">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeightChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HeightChecker" />
+      <module name="Leetcode&amp;CodewarsQuestions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,14 +109,6 @@
     </configuration>
     <configuration name="RemoveDuplicatesSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesSortedArray" />
-      <module name="Leetcode&amp;CodewarsQuestions" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveElement" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -290,19 +290,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.RemoveElement" />
       <item itemvalue="Application.OneEditDistance" />
       <item itemvalue="Application.RemoveDuplicatesSortedArray" />
       <item itemvalue="Application.MoveZeroes" />
       <item itemvalue="Application.SortArrayParity" />
+      <item itemvalue="Application.HeightChecker" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HeightChecker" />
         <item itemvalue="Application.SortArrayParity" />
         <item itemvalue="Application.MoveZeroes" />
         <item itemvalue="Application.RemoveDuplicatesSortedArray" />
         <item itemvalue="Application.OneEditDistance" />
-        <item itemvalue="Application.RemoveElement" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +359,7 @@
       <workItem from="1608678965089" duration="18673000" />
       <workItem from="1609876044697" duration="21735000" />
       <workItem from="1610389250830" duration="6500000" />
-      <workItem from="1611090771203" duration="18320000" />
+      <workItem from="1611090771203" duration="19453000" />
     </task>
     <task id="LOCAL-00001" summary="Count number of 1s in array">
       <created>1608758566615</created>
@@ -571,7 +571,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611688603997</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Count number of 1s in array">
+      <created>1611779624751</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1611779624751</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
