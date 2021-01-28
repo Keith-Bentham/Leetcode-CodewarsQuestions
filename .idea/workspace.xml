@@ -76,7 +76,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HeightChecker">
+  <component name="RunManager" selected="Application.MaxConsecutiveOnesII">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -91,16 +91,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MoveZeroes" />
+    <configuration name="MaxConsecutiveOnesII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxConsecutiveOnesII" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OneEditDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OneEditDistance" />
+    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoveZeroes" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -290,19 +290,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.OneEditDistance" />
       <item itemvalue="Application.RemoveDuplicatesSortedArray" />
       <item itemvalue="Application.MoveZeroes" />
       <item itemvalue="Application.SortArrayParity" />
       <item itemvalue="Application.HeightChecker" />
+      <item itemvalue="Application.MaxConsecutiveOnesII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxConsecutiveOnesII" />
         <item itemvalue="Application.HeightChecker" />
         <item itemvalue="Application.SortArrayParity" />
         <item itemvalue="Application.MoveZeroes" />
         <item itemvalue="Application.RemoveDuplicatesSortedArray" />
-        <item itemvalue="Application.OneEditDistance" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +359,7 @@
       <workItem from="1608678965089" duration="18673000" />
       <workItem from="1609876044697" duration="21735000" />
       <workItem from="1610389250830" duration="6500000" />
-      <workItem from="1611090771203" duration="19453000" />
+      <workItem from="1611090771203" duration="20326000" />
     </task>
     <task id="LOCAL-00001" summary="Count number of 1s in array">
       <created>1608758566615</created>
@@ -578,7 +578,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611779624751</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Count number of 1s in array">
+      <created>1611780847153</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1611780847153</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
