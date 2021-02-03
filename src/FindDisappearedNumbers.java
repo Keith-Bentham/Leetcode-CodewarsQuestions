@@ -9,16 +9,14 @@
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class FindDisappearedNumbers {
 
     public static void main(String[] args) {
         int arr[] = {1, 2, 2, 4, 5, 6, 8, 9};
-        FindDisappearedNumbers fdn = new FindDisappearedNumbers();
-        System.out.println(fdn.findDisappearedNumbers(arr));
+        System.out.println(findDisappearedNumbers(arr));
     }
 
-    public List<Integer> findDisappearedNumbers(int[] nums) {
+    public static List<Integer> findDisappearedNumbers(int[] nums) {
 
         List<Integer> result = new ArrayList<>();
         int[] count = new int[nums.length];

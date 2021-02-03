@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DeleteNodeInLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeleteNodeInLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FindDisappearedNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindDisappearedNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntersectionTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntersectionTwoLinkedLists.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindDisappearedNumbers">
+  <component name="RunManager" selected="Application.LinkedListCycle">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -94,16 +96,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxConsecutiveOnesII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxConsecutiveOnesII" />
+    <configuration name="LinkedListCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListCycle" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArrayParity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortArrayParity" />
+    <configuration name="MaxConsecutiveOnesII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxConsecutiveOnesII" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -285,19 +287,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.SortArrayParity" />
       <item itemvalue="Application.HeightChecker" />
       <item itemvalue="Application.MaxConsecutiveOnesII" />
       <item itemvalue="Application.ThirdMax" />
       <item itemvalue="Application.FindDisappearedNumbers" />
+      <item itemvalue="Application.LinkedListCycle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListCycle" />
         <item itemvalue="Application.FindDisappearedNumbers" />
         <item itemvalue="Application.ThirdMax" />
         <item itemvalue="Application.MaxConsecutiveOnesII" />
         <item itemvalue="Application.HeightChecker" />
-        <item itemvalue="Application.SortArrayParity" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +359,7 @@
       <workItem from="1611090771203" duration="21507000" />
       <workItem from="1612045193722" duration="480000" />
       <workItem from="1612122123138" duration="269000" />
-      <workItem from="1612178299292" duration="6960000" />
+      <workItem from="1612178299292" duration="11538000" />
     </task>
     <task id="LOCAL-00001" summary="Count number of 1s in array">
       <created>1608758566615</created>
@@ -632,7 +634,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612267161262</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Update.">
+      <created>1612292820341</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1612292820341</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

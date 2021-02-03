@@ -3,7 +3,7 @@
  */
 class ListNode2 {
     int val;
-    ListNode2 next;
+    ListNode next;
 
     ListNode2(int x) {
         val = x;
