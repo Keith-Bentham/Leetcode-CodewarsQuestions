@@ -70,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListCycle">
+  <component name="RunManager" selected="Application.LinkedListCycleII">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -85,16 +85,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeightChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HeightChecker" />
+    <configuration name="LinkedListCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListCycle" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListCycle" />
+    <configuration name="LinkedListCycleII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListCycleII" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -284,19 +284,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.HeightChecker" />
       <item itemvalue="Application.MaxConsecutiveOnesII" />
       <item itemvalue="Application.ThirdMax" />
       <item itemvalue="Application.FindDisappearedNumbers" />
       <item itemvalue="Application.LinkedListCycle" />
+      <item itemvalue="Application.LinkedListCycleII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListCycleII" />
         <item itemvalue="Application.LinkedListCycle" />
         <item itemvalue="Application.FindDisappearedNumbers" />
         <item itemvalue="Application.ThirdMax" />
         <item itemvalue="Application.MaxConsecutiveOnesII" />
-        <item itemvalue="Application.HeightChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +357,7 @@
       <workItem from="1612045193722" duration="480000" />
       <workItem from="1612122123138" duration="269000" />
       <workItem from="1612178299292" duration="11739000" />
-      <workItem from="1612461721053" duration="615000" />
+      <workItem from="1612461721053" duration="4793000" />
     </task>
     <task id="LOCAL-00001" summary="Count number of 1s in array">
       <created>1608758566615</created>
@@ -646,7 +646,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612386854241</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Update.">
+      <created>1612477192946</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1612477192947</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
