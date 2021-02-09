@@ -1,10 +1,11 @@
 import java.util.HashSet;
 
-/**
- * Created by Keith Bentham
- */
-
 public class LongestPalindromeSum {
+
+    public static void main(String[] args) {
+        LongestPalindromeSum lps = new LongestPalindromeSum();
+        System.out.println("One longest palindrome that can be built is \"dccaccd\", whose length is: " + lps.longestPalindrome("abccccdd"));
+    }
 
     public int longestPalindrome(String s) {
         HashSet<Character> set = new HashSet<>();
@@ -16,10 +17,4 @@ public class LongestPalindromeSum {
         int odd = set.size();
         return s.length() - (odd == 0 ? 0 : odd - 1);
     }
-
-    public static void main(String[] args) {
-        LongestPalindromeSum lps = new LongestPalindromeSum();
-        System.out.println("One longest palindrome that can be built is \"dccaccd\", whose length is: " + lps.longestPalindrome("abccccdd"));
-    }
-
 }
