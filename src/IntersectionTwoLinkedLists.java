@@ -1,17 +1,14 @@
-/**
- * Created by Keith Bentham
- */
-class ListNode2 {
-    int val;
-    ListNode next;
-
-    ListNode2(int x) {
-        val = x;
-        next = null;
-    }
-}
-
 public class IntersectionTwoLinkedLists {
+    class ListNode2 {
+        int val;
+        ListNode next;
+
+        ListNode2(int x) {
+            val = x;
+            next = null;
+        }
+    }
+
     public ListNode2 getIntersectionNode(ListNode2 headA, ListNode2 headB) {
         int countA = 0;
         int countB = 0;
