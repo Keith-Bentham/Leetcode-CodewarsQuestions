@@ -1,7 +1,7 @@
 public class IntersectionTwoLinkedLists {
-    class ListNode2 {
+    static class ListNode2 {
         int val;
-        ListNode next;
+        ListNode2 next;
 
         ListNode2(int x) {
             val = x;
