@@ -1,7 +1,9 @@
-/**
- * Created by Keith Bentham
- */
+
 public class ReverseLinkedList {
+
+    public static void main(String[] args) {
+        System.out.println(reverseList(null));
+    }
 
     public class ListNode {
         int val;
@@ -12,7 +14,7 @@ public class ReverseLinkedList {
         }
     }
 
-    public ListNode reverseList(ListNode head) {
+    public static ListNode reverseList(ListNode head) {
         if (head == null || head.next == null) {
             return head;
         }

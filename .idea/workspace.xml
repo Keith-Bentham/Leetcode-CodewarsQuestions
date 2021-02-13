@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update." />
+    <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseLinkedList.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -356,14 +359,7 @@
       <workItem from="1612122123138" duration="269000" />
       <workItem from="1612178299292" duration="11739000" />
       <workItem from="1612461721053" duration="5789000" />
-      <workItem from="1612804897787" duration="2592000" />
-    </task>
-    <task id="LOCAL-00004" summary="Count number of 1s in array">
-      <created>1609360018007</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1609360018007</updated>
+      <workItem from="1612804897787" duration="3345000" />
     </task>
     <task id="LOCAL-00005" summary="Count number of 1s in array">
       <created>1609881138097</created>
@@ -701,7 +697,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613211145558</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Update.">
+      <created>1613219382465</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1613219382465</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
