@@ -1,8 +1,7 @@
-
 public class ReverseLinkedList {
 
     public static void main(String[] args) {
-        System.out.println(reverseList(null));
+        //System.out.println(reverseList(null));
     }
 
     public class ListNode {
