@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DeleteNodeInLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeleteNodeInLinkedList.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListCycleII">
+  <component name="RunManager" selected="Application.RemoveLinkedListElements">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -102,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxConsecutiveOnesII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxConsecutiveOnesII" />
+    <configuration name="RemoveLinkedListElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveLinkedListElements" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -285,19 +285,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.MaxConsecutiveOnesII" />
       <item itemvalue="Application.ThirdMax" />
       <item itemvalue="Application.FindDisappearedNumbers" />
       <item itemvalue="Application.LinkedListCycle" />
       <item itemvalue="Application.LinkedListCycleII" />
+      <item itemvalue="Application.RemoveLinkedListElements" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveLinkedListElements" />
         <item itemvalue="Application.LinkedListCycleII" />
         <item itemvalue="Application.LinkedListCycle" />
         <item itemvalue="Application.FindDisappearedNumbers" />
         <item itemvalue="Application.ThirdMax" />
-        <item itemvalue="Application.MaxConsecutiveOnesII" />
       </list>
     </recent_temporary>
   </component>
@@ -359,14 +359,7 @@
       <workItem from="1612122123138" duration="269000" />
       <workItem from="1612178299292" duration="11739000" />
       <workItem from="1612461721053" duration="5789000" />
-      <workItem from="1612804897787" duration="5164000" />
-    </task>
-    <task id="LOCAL-00006" summary="Count number of 1s in array">
-      <created>1610032003967</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1610032003967</updated>
+      <workItem from="1612804897787" duration="5405000" />
     </task>
     <task id="LOCAL-00007" summary="Count number of 1s in array">
       <created>1610040410440</created>
@@ -704,7 +697,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613239899821</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Update.">
+      <created>1613300320558</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1613300320558</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
