@@ -10,7 +10,6 @@ public class OddEvenLinkedList {
         }
         ListNode evenH = head.next, oddH = head;
         ListNode evenFirst = head.next;
-        // because evenH faster than odd Head, so we don't need to see oddH !=null
         while (evenH != null && evenH.next != null) {
             oddH.next = evenH.next;
             oddH = oddH.next;
