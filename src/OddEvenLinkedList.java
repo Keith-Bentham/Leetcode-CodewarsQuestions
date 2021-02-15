@@ -1,8 +1,10 @@
-/**
- * Created by Keith Bentham
- */
 public class OddEvenLinkedList {
-    public ListNode oddEvenList(ListNode head) {
+
+    public static void main(String[] args) {
+        System.out.println(oddEvenList(new ListNode(4)));
+    }
+
+    public static ListNode oddEvenList(ListNode head) {
         if (head == null || head.next == null) {
             return head;
         }
