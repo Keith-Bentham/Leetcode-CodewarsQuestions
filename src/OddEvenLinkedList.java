@@ -20,6 +20,7 @@ public class OddEvenLinkedList {
         return head;
     }
 }
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
