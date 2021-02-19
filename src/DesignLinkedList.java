@@ -12,7 +12,6 @@ public class DesignLinkedList {
 
     class MyLinkedList {
         int size;
-        // sentinel nodes as pseudo-head and pseudo-tail
         ListNode head, tail;
 
         public MyLinkedList() {
@@ -23,19 +22,15 @@ public class DesignLinkedList {
             tail.prev = head;
         }
 
-        /**
-         * Get the value of the index-th node in the linked list. If the index is invalid, return -1.
-         */
         public int get(int index) {
             // if index is invalid
             if (index < 0 || index >= size) return -1;
 
             // choose the fastest way: to move from the head
-            // or to move from the tail
             ListNode curr = head;
             if (index + 1 < size - index)
                 for (int i = 0; i < index + 1; ++i) curr = curr.next;
-            else {
+            else {// or to move from the tail
                 curr = tail;
                 for (int i = 0; i < size - index; ++i) curr = curr.prev;
             }
