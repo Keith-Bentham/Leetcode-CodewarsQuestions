@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update.">
-      <change beforePath="$PROJECT_DIR$/src/DesignLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -358,14 +358,7 @@
       <workItem from="1612122123138" duration="269000" />
       <workItem from="1612178299292" duration="11739000" />
       <workItem from="1612461721053" duration="5789000" />
-      <workItem from="1612804897787" duration="11760000" />
-    </task>
-    <task id="LOCAL-00016" summary="Count number of 1s in array">
-      <created>1610736782636</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1610736782636</updated>
+      <workItem from="1612804897787" duration="12282000" />
     </task>
     <task id="LOCAL-00017" summary="Count number of 1s in array">
       <created>1610778999710</created>
@@ -703,7 +696,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613671281135</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Update.">
+      <created>1613757653277</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1613757653277</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
