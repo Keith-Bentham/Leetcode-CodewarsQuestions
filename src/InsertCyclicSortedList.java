@@ -1,11 +1,10 @@
-
 public class InsertCyclicSortedList {
-
     public static void main(String args[]) {
         System.out.println(insert(null, 5));
     }
 
     static class Node {
+
         public int val;
         public Node next;
 
@@ -22,15 +21,12 @@ public class InsertCyclicSortedList {
         }
     }
 
-    ;
-
     public static Node insert(Node head, int insertVal) {
         if (head == null) {
             Node newNode = new Node(insertVal, null);
             newNode.next = newNode;
             return newNode;
         }
-
         Node prev = head;
         Node curr = head.next;
         boolean toInsert = false;
