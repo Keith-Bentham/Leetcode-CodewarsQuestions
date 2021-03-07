@@ -16,7 +16,6 @@ public class CopyListRandomPointer {
 
     static class Solution {
 
-
         public static Node copyRandomList(Node head) {
             return;
         }
