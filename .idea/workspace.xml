@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CopyListRandomPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CopyListRandomPointer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MaxConsOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxConsOnes.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -363,14 +361,7 @@
       <workItem from="1612804897787" duration="12575000" />
       <workItem from="1613893277230" duration="1707000" />
       <workItem from="1614494320732" duration="8198000" />
-      <workItem from="1615211325498" duration="2758000" />
-    </task>
-    <task id="LOCAL-00040" summary="Update.">
-      <created>1612292820341</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1612292820341</updated>
+      <workItem from="1615211325498" duration="3141000" />
     </task>
     <task id="LOCAL-00041" summary="Update.">
       <created>1612386854241</created>
@@ -708,7 +699,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615279944276</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Update.">
+      <created>1615399369893</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1615399369893</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
