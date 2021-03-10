@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update." />
+    <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CopyListRandomPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CopyListRandomPointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxConsOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxConsOnes.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveLinkedListElements">
+  <component name="RunManager" selected="Application.MaxConsOnes">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -99,16 +103,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveLinkedListElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveLinkedListElements" />
+    <configuration name="MaxConsOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxConsOnes" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThirdMax" />
+    <configuration name="RemoveLinkedListElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveLinkedListElements" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -282,19 +286,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.ThirdMax" />
       <item itemvalue="Application.FindDisappearedNumbers" />
       <item itemvalue="Application.LinkedListCycle" />
       <item itemvalue="Application.LinkedListCycleII" />
       <item itemvalue="Application.RemoveLinkedListElements" />
+      <item itemvalue="Application.MaxConsOnes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxConsOnes" />
         <item itemvalue="Application.RemoveLinkedListElements" />
         <item itemvalue="Application.LinkedListCycleII" />
         <item itemvalue="Application.LinkedListCycle" />
         <item itemvalue="Application.FindDisappearedNumbers" />
-        <item itemvalue="Application.ThirdMax" />
       </list>
     </recent_temporary>
   </component>
@@ -359,14 +363,7 @@
       <workItem from="1612804897787" duration="12575000" />
       <workItem from="1613893277230" duration="1707000" />
       <workItem from="1614494320732" duration="8198000" />
-      <workItem from="1615211325498" duration="765000" />
-    </task>
-    <task id="LOCAL-00039" summary="Update.">
-      <created>1612267161262</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1612267161262</updated>
+      <workItem from="1615211325498" duration="2758000" />
     </task>
     <task id="LOCAL-00040" summary="Update.">
       <created>1612292820341</created>
@@ -704,7 +701,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615220889685</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Update.">
+      <created>1615279944276</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1615279944276</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
