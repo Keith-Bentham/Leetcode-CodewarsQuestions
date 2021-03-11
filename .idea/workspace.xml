@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update.">
-      <change beforePath="$PROJECT_DIR$/src/MaxConsOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxConsOnes.java" afterDir="false" />
-    </list>
+    <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update." />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,14 +359,7 @@
       <workItem from="1612804897787" duration="12575000" />
       <workItem from="1613893277230" duration="1707000" />
       <workItem from="1614494320732" duration="8198000" />
-      <workItem from="1615211325498" duration="3141000" />
-    </task>
-    <task id="LOCAL-00041" summary="Update.">
-      <created>1612386854241</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1612386854241</updated>
+      <workItem from="1615211325498" duration="3595000" />
     </task>
     <task id="LOCAL-00042" summary="Update.">
       <created>1612477192946</created>
@@ -706,7 +697,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615399369893</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Update.">
+      <created>1615399752516</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1615399752516</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
