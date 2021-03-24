@@ -7,6 +7,7 @@ import java.util.Stack;
  */
 public class BinaryTreeInorderTraversal {
     List<Integer> lst = new ArrayList<>();
+
     public List<Integer> inorderTraversal(Node root) {
         traversal(root);
         return lst;
@@ -17,11 +18,11 @@ public class BinaryTreeInorderTraversal {
         Stack<Node> stack = new Stack<Node>();
 
         Node cur = root;
-        if (root == null){
+        if (root == null) {
             return result;
         }
-        while(cur!=null || !stack.empty()){
-            while(cur!=null){
+        while (cur != null || !stack.empty()) {
+            while (cur != null) {
                 stack.add(cur);
                 cur = cur.left;
             }
