@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
+
 /**
  * Created by Keith Bentham
  */
@@ -23,6 +24,7 @@ public class IntersectionTwoArrays {
         }
         return result;
     }
+
     public static void main(String[] args) {
         int[] arrOne = {1, 2, 2, 1};
         int[] arrTwo = {2, 2};

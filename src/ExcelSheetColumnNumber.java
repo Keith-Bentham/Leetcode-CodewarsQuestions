@@ -13,6 +13,6 @@ public class ExcelSheetColumnNumber {
 
     public static void main(String[] args) {
         ExcelSheetColumnNumber escn = new ExcelSheetColumnNumber();
-        System.out.println("The number version of excel value of \"AB\" is: " +escn.titleToNumber("AB"));
+        System.out.println("The number version of excel value of \"AB\" is: " + escn.titleToNumber("AB"));
     }
 }
