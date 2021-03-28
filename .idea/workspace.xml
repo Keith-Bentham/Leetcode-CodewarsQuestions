@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update." />
+    <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update.">
+      <change beforePath="$PROJECT_DIR$/src/EvenNumberOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvenNumberOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MoveZeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Permutations.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,21 +364,7 @@
       <workItem from="1613893277230" duration="1707000" />
       <workItem from="1614494320732" duration="8198000" />
       <workItem from="1615211325498" duration="6713000" />
-      <workItem from="1615538735104" duration="10534000" />
-    </task>
-    <task id="LOCAL-00060" summary="Update.">
-      <created>1613497957467</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1613497957467</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Update.">
-      <created>1613497989299</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1613497989299</updated>
+      <workItem from="1615538735104" duration="10768000" />
     </task>
     <task id="LOCAL-00062" summary="Update.">
       <created>1613588897433</created>
@@ -705,7 +695,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616778948431</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Update.">
+      <created>1616864247366</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1616864247367</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Update.">
+      <created>1616864299306</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1616864299307</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

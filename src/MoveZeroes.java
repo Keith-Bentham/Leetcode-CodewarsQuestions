@@ -1,4 +1,5 @@
 import java.util.Arrays;
+
 public class MoveZeroes {
     public static void main(String[] args) {
         int[] nums1 = {1, 0, 0, 2, 3, 4};
