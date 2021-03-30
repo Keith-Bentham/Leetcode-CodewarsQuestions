@@ -17,6 +17,7 @@ public class ValidAnagram {
         }
         return true;
     }
+
     public static void main(String[] args) {
         ValidAnagram va = new ValidAnagram();
         System.out.println("is \"anagram\" and \"nagaram\" valid anagrams of each other: " + va.isAnagram("anagram", "nagaram"));
