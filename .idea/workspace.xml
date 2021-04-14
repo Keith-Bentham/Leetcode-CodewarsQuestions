@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidSudoku.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -364,14 +364,7 @@
       <workItem from="1615211325498" duration="6713000" />
       <workItem from="1615538735104" duration="13473000" />
       <workItem from="1618056480637" duration="628000" />
-      <workItem from="1618100291940" duration="266000" />
-    </task>
-    <task id="LOCAL-00073" summary="Update.">
-      <created>1614353808830</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1614353808831</updated>
+      <workItem from="1618100291940" duration="602000" />
     </task>
     <task id="LOCAL-00074" summary="Update.">
       <created>1614521036255</created>
@@ -709,7 +702,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618056507896</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="Update.">
+      <created>1618203773032</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1618203773033</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
