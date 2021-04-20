@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class EvenNumberOfDigits {
     public static void main(String[] args) {
 
-        int[] nums = {555, 901, 482, 1771};
+        int[] nums = {20, 10, 555, 901, 482, 1771};
         System.out.println("Even: " + findNumbers(nums));
         System.out.println("Not Even: " + findNotEven(nums));
         System.out.println("Even number: " + returnEvenArray(nums));
@@ -34,7 +34,7 @@ public class EvenNumberOfDigits {
         return result;
     }
 
-
+    //3
     public static ArrayList returnEvenArray(int[] arr) {
         ArrayList<Integer> evenNums = new ArrayList<Integer>();
 
@@ -45,6 +45,5 @@ public class EvenNumberOfDigits {
         }
         return evenNums;
     }
-
 
 }
