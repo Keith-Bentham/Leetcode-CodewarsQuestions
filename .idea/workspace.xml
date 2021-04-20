@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EvenNumberOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvenNumberOfDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MaxConsOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxConsOnes.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,15 +72,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxConsOnes">
+  <component name="RunManager" selected="Application.EvenNumberOfDigits">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDisappearedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindDisappearedNumbers" />
+    <configuration name="EvenNumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenNumberOfDigits" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -285,19 +286,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.FindDisappearedNumbers" />
       <item itemvalue="Application.LinkedListCycle" />
       <item itemvalue="Application.LinkedListCycleII" />
       <item itemvalue="Application.RemoveLinkedListElements" />
       <item itemvalue="Application.MaxConsOnes" />
+      <item itemvalue="Application.EvenNumberOfDigits" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenNumberOfDigits" />
         <item itemvalue="Application.MaxConsOnes" />
         <item itemvalue="Application.RemoveLinkedListElements" />
         <item itemvalue="Application.LinkedListCycleII" />
         <item itemvalue="Application.LinkedListCycle" />
-        <item itemvalue="Application.FindDisappearedNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -366,14 +367,7 @@
       <workItem from="1615538735104" duration="13473000" />
       <workItem from="1618056480637" duration="628000" />
       <workItem from="1618100291940" duration="907000" />
-      <workItem from="1618636767588" duration="3322000" />
-    </task>
-    <task id="LOCAL-00079" summary="Update.">
-      <created>1614795643644</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1614795643644</updated>
+      <workItem from="1618636767588" duration="6926000" />
     </task>
     <task id="LOCAL-00080" summary="Update.">
       <created>1614863408335</created>
@@ -711,7 +705,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618713039975</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="Update.">
+      <created>1618825688611</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1618825688612</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

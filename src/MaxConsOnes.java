@@ -36,21 +36,4 @@ public class MaxConsOnes {
         return Math.max(foundOne, maxOnes);
     }
 
-
-    public static int countConFives(int[] arr) {
-        int maxFive = 0;
-        int foundFive = 0;
-
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] == 5) {
-                foundFive++;
-            } else {
-                maxFive = Math.max(maxFive, foundFive);
-                foundFive = 0;
-            }
-        }
-        return Math.max(foundFive, maxFive);
-    }
-
-
 }
