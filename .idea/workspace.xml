@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EvenNumberOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvenNumberOfDigits.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EvenNumberOfDigits">
+  <component name="RunManager" selected="Application.KidsWithGreatestNumberCandies">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -86,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListCycle" />
+    <configuration name="KidsWithGreatestNumberCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KidsWithGreatestNumberCandies" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -285,19 +284,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.LinkedListCycle" />
       <item itemvalue="Application.LinkedListCycleII" />
       <item itemvalue="Application.RemoveLinkedListElements" />
       <item itemvalue="Application.MaxConsOnes" />
       <item itemvalue="Application.EvenNumberOfDigits" />
+      <item itemvalue="Application.KidsWithGreatestNumberCandies" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KidsWithGreatestNumberCandies" />
         <item itemvalue="Application.EvenNumberOfDigits" />
         <item itemvalue="Application.MaxConsOnes" />
         <item itemvalue="Application.RemoveLinkedListElements" />
         <item itemvalue="Application.LinkedListCycleII" />
-        <item itemvalue="Application.LinkedListCycle" />
       </list>
     </recent_temporary>
   </component>
@@ -366,14 +365,8 @@
       <workItem from="1615538735104" duration="13473000" />
       <workItem from="1618056480637" duration="628000" />
       <workItem from="1618100291940" duration="907000" />
-      <workItem from="1618636767588" duration="8389000" />
-    </task>
-    <task id="LOCAL-00081" summary="Update.">
-      <created>1614958128434</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1614958128435</updated>
+      <workItem from="1618636767588" duration="8755000" />
+      <workItem from="1618890180893" duration="3656000" />
     </task>
     <task id="LOCAL-00082" summary="Update.">
       <created>1614958377683</created>
@@ -711,7 +704,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618881346973</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="Update.">
+      <created>1618889630069</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1618889630070</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
