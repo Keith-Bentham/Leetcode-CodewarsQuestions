@@ -22,11 +22,28 @@ import java.util.List;
 public class KidsWithGreatestNumberCandies {
 
     public static void main(String[] args) {
-
         int[] kidsArray = {2, 3, 5, 1, 3};
         int extraCandies = 3;
         System.out.println("Bool list: " + kidsWithCandies(kidsArray, extraCandies));
     }
+
+    /**
+     * Method will return a boolean List, take a parameters of an array and int
+     * decalre a new List
+     * declare max value
+     * <p>
+     * enhanced for loop ->>
+     * find the kid with the most candies to compare against later
+     * in this example its 5
+     * <p>
+     * enhanced for loop ->>
+     * add the boolean value only if the kid with the candies will either get all the candies or has the most
+     * will return false if the value cannot beat the other values in the group
+     * in this example kid[3] will never have more than the rest because they
+     * started with 1 and can only ever get to 4 which is lower than the rest
+     * <p>
+     * return List with bool results
+     */
 
     private static List<Boolean> kidsWithCandies(int[] kidsArray, int extraCandies) {
         ArrayList<Boolean> candieListBool = new ArrayList<>();
