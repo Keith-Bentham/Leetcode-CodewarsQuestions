@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="Update.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KidsWithGreatestNumberCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KidsWithGreatestNumberCandies.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -367,14 +366,7 @@
       <workItem from="1618056480637" duration="628000" />
       <workItem from="1618100291940" duration="907000" />
       <workItem from="1618636767588" duration="8755000" />
-      <workItem from="1618890180893" duration="5391000" />
-    </task>
-    <task id="LOCAL-00083" summary="Update.">
-      <created>1615028238651</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1615028238652</updated>
+      <workItem from="1618890180893" duration="7837000" />
     </task>
     <task id="LOCAL-00084" summary="Update.">
       <created>1615054609755</created>
@@ -712,7 +704,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618977501316</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="Update.">
+      <created>1618980466602</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1618980466602</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
