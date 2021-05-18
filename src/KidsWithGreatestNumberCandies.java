@@ -48,7 +48,7 @@ public class KidsWithGreatestNumberCandies {
     private static List<Boolean> kidsWithCandies(int[] kidsArray, int extraCandies) {
         ArrayList<Boolean> candieListBool = new ArrayList<>();
         int maxCandieValue = 0;
-
+        7
         for (int candy : kidsArray) {
             maxCandieValue = Math.max(candy, maxCandieValue);
         }
