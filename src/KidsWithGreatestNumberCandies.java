@@ -27,7 +27,6 @@ public class KidsWithGreatestNumberCandies {
         System.out.println("Bool list: " + kidsWithCandies(kidsArray, extraCandies));
     }
 
-
     /**
      * Method will return a boolean List, take a parameters of an array and int
      * decalre a new List
