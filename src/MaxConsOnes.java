@@ -1,7 +1,7 @@
 public class MaxConsOnes {
     public static void main(String[] args) {
-        int[] nums = {1, 0, 1, 0, 2, 2, 2, 2, 2, 1};
-        System.out.println("Max 1s is :" +
+        int[] nums = {1, 0, 1, 0, 2, 2, 2, 2, 2, 1, 1, 1};
+        System.out.println("Max 1s is : " +
                 findMaxConsecutiveOnes(nums));
     }
 
@@ -9,8 +9,8 @@ public class MaxConsOnes {
         int foundOne = 0;
         int max = 0;
 
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == 1) {
+        for (int num : nums) {
+            if (num == 1) {
                 foundOne++;
             } else {
                 max = Math.max(foundOne, max);
@@ -19,7 +19,6 @@ public class MaxConsOnes {
         }
         return Math.max(foundOne, max);
     }
-
 
     public static int maxConsecOnes(int[] arr) {
         int maxOnes = 0;
@@ -35,5 +34,6 @@ public class MaxConsOnes {
         }
         return Math.max(foundOne, maxOnes);
     }
+
 
 }
