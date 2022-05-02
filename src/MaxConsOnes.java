@@ -35,5 +35,4 @@ public class MaxConsOnes {
         return Math.max(foundOne, maxOnes);
     }
 
-
 }
