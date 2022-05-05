@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxConsOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxConsOnes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -347,14 +346,7 @@
       <workItem from="1649322140807" duration="4169000" />
       <workItem from="1649835365855" duration="1096000" />
       <workItem from="1651474924574" duration="766000" />
-      <workItem from="1651478937666" duration="3828000" />
-    </task>
-    <task id="LOCAL-00116" summary="Update.">
-      <created>1617549275970</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1617549275970</updated>
+      <workItem from="1651478937666" duration="4776000" />
     </task>
     <task id="LOCAL-00117" summary="Update.">
       <created>1617561379430</created>
@@ -692,7 +684,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651479084982</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="Update.">
+      <created>1651521365737</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1651521365737</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -714,17 +713,6 @@
     <MESSAGE value="Update." />
     <option name="LAST_COMMIT_MESSAGE" value="Update." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ConcatenationofArray.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
