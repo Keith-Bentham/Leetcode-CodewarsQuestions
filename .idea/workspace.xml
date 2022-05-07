@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4375515-de47-486c-91ec-2d42ace5d995" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConcatenationofArray">
+  <component name="RunManager" selected="Application.RootEqualsSumChildren">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -174,14 +175,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenNumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvenNumberOfDigits" />
-      <module name="Leetcode&amp;CodewarsQuestions" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="KidsWithGreatestNumberCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KidsWithGreatestNumberCandies" />
       <module name="Leetcode&amp;CodewarsQuestions" />
@@ -192,6 +185,14 @@
     </configuration>
     <configuration name="MaxConsOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MaxConsOnes" />
+      <module name="Leetcode&amp;CodewarsQuestions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RootEqualsSumChildren" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RootEqualsSumChildren" />
       <module name="Leetcode&amp;CodewarsQuestions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -246,18 +247,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ConcatenationofArray" />
+      <item itemvalue="Application.RootEqualsSumChildren" />
       <item itemvalue="Application.MaxConsOnes" />
-      <item itemvalue="Application.EvenNumberOfDigits" />
       <item itemvalue="Application.KidsWithGreatestNumberCandies" />
       <item itemvalue="Application.BestTimeBuySellStock" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RootEqualsSumChildren" />
         <item itemvalue="Application.ConcatenationofArray" />
         <item itemvalue="Application.MaxConsOnes" />
         <item itemvalue="Application.BestTimeBuySellStock" />
         <item itemvalue="Application.KidsWithGreatestNumberCandies" />
-        <item itemvalue="Application.EvenNumberOfDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -346,14 +347,7 @@
       <workItem from="1649322140807" duration="4169000" />
       <workItem from="1649835365855" duration="1096000" />
       <workItem from="1651474924574" duration="766000" />
-      <workItem from="1651478937666" duration="4776000" />
-    </task>
-    <task id="LOCAL-00117" summary="Update.">
-      <created>1617561379430</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1617561379430</updated>
+      <workItem from="1651478937666" duration="10840000" />
     </task>
     <task id="LOCAL-00118" summary="Update.">
       <created>1617723981136</created>
@@ -691,7 +685,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651521365737</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="Update.">
+      <created>1651775888233</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1651775888233</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
